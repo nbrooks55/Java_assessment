@@ -1,0 +1,7 @@
+<BackgroundCheck>
+        <CriminalHistory>
+                <HistoryCode>x</HistoryCode>
+                < HistoryCode>y</HistoryCode>
+                < HistoryCode>z</HistoryCode>
+        </CriminalHistory>
+</BackgroundCheck>
